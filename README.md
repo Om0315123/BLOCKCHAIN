@@ -1,14 +1,15 @@
-# #BLOCKCHAIN
-<br>
-<b>#META MASK TESTNET</b>
+# BLOCKCHAIN
+This repo is about Tasks related to blockchain
+# META MASK TESTNET
 <br>
 <img src="https://github.com/user-attachments/assets/15959bbf-e851-48d7-a5f6-1e192c5c16a8" length ='450' width ="400">
-<br>
-<b>#SOLIDITY LESSONS</b>
+
+# SOLIDITY LESSONS
 <br>
 <img src="https://github.com/user-attachments/assets/39fea481-bde3-42d6-90fe-ec66c4016c57" lenth = "550" width ="500">
-<br>
-<b><u>IPFS</u></b> <br>
+
+# IPFS
+<BR>
 <b>STEPS TO RUN IPFS</b> <br>
  #1 Install IPFS through 
       <br> wget https://github.com/ipfs/kubo/releases/download/v0.32.1/kubo_v0.32.1_linux-amd64.tar.gz <br>
@@ -44,9 +45,8 @@
 <img src = 'https://github.com/user-attachments/assets/501071ba-56e3-4aee-88d9-b3736cd79e84' lenth = "550" width ="500">
 <br>
 <img src = 'https://github.com/user-attachments/assets/1fe9fbc8-a965-4d64-afc1-119cc3d22779' lenth = "550" width ="500">
-<BR>
 
-<b>#HYPERLEADGER FABRIC </b>
+# HYPERLEADGER FABRIC
 <BR> <b> Channel created and joined</b> <br>
 <img src = 'https://github.com/user-attachments/assets/e51294c9-ddcb-4446-93b0-f1f9c0143619' lenth = "550" width ="500"> 
 <br>
