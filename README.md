@@ -1,7 +1,7 @@
 # BLOCKCHAIN
 
 
-# META MASK TESTNET
+# SEPOLIA TESTNET
 <br>
 <img src="https://github.com/user-attachments/assets/15959bbf-e851-48d7-a5f6-1e192c5c16a8" length ='450' width ="400">
 
