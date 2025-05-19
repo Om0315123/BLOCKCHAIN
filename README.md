@@ -55,4 +55,17 @@
 <br>
 <img src = 'https://github.com/user-attachments/assets/0014f24f-0614-42da-81e8-a3443fe8b44c' lenth = "550" width ="500"> 
 <br>
+ # STEPS TO RUN FABRIC ON WSL ( WINDOWS SUB-SYSTEM FOR LINUX ) 
+  1.  sudo apt install golang-go
+  2.  docker –version
+  3.  docker-compose –version
+  4.  ls
+  5.  git clone -b main https://github.com/hyperledger/fabric-samples.git
+  6.  cd fabric-samples
+  7.  curl -sSL https://bit.ly/2ysbOFE | bash -s
+  8.  cd test-network
+  9.   ./network.sh
+ 10.   ./network.sh up
+ 11.    ./network.sh createChannel
+ 12.    ./network.sh down
 
